@@ -1,0 +1,134 @@
+#-------------------------------
+# Site Settings
+title: brianlimapps
+logo: /images/Memoji-Computer.png # You can add own logo. For example '/images/logo.png'.
+description: Development Portfolio
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Projects'
+      url: '/projects/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Contact'
+      url: 'contact'
+
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: Brian Lim
+  author__bio: I've built a total of 10 apps, of which have been on the App Store at one point in time. I also have a few ideas currently in development, so stay tune for those!
+  author__avatar: '/images/Memoji-Computer.png'
+
+social:
+- {icon: "ion-logo-github", link: "https://github.com/TekHero"}
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/channel/UCEZsOGW2-NZCyLiBG7b8ZkQ"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Hi I'm Brian. I'm a iOS Software Engineer. Welcome!
+  hero__description: I've built a total of 10 apps, of which have been on the App Store at one point in time. I also have a few ideas currently in development, so stay tune for those!
+  hero__image: '/images/Memoji-Computer.png'
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+mailchimp__input__text: Your email address...
+mailchimp__button__text: Get updates
+
+
+#-------------------------------
+# Projects Settings
+projects__settings:
+  projects__title: Latest Apps
+  projects__description: The apps I've built were done so for primarily educational purposes and for fun, they all vary from the simplest of ideas to far more involved ideas.
+
+
+#-------------------------------
+# Testimonials Section
+testimonial__title: What reviewers say
+testimonial__description:
+
+testimonial__items:
+  - name: "Fantastic app"
+    designation: "ImAwesome24"
+    content : "\"I was looking for an app to keep track of all my favorite shows cause being a busy parent, don’t have time to do so. I finally found one that is simple to use. Highly recommend it.\""
+
+  - name: "Awesome app!!"
+    designation: "mo_da_las"
+    content : "\"Exactly what I needed, it helps a lot when it comes to keeping track of what shows I’m watching and it has a really nice UI.\""
+
+  - name: "Outstanding"
+    designation: "lmcpb"
+    content : "\"It’s a great app— love the notifications of favorite shows. It’s clean and well thought out. The design is really nice. Easy app to use—would highly recommend it.\""
+
+  - name: "You must get"
+    content : "\"Great app. Makes accessing all your shows a breeze! Highly recommend. Thoughtful UX.\""
+
+#-------------------------------
+# Blog Section
+blog__settings:
+  blog__title: Recent Posts
+  blog__description:
+
+
+#-------------------------------
+# Gallery Footer Settings
+gallery:
+  gallery__images:
+    - alt: 'Chroma Spot Screenshot'
+      url: '/images/Chroma-Spot-Screenshot.JPG'
+    - alt: 'Spenditure Screenshot'
+      url: '/images/Spenditure-Screenshot.JPG'
+    - alt: 'Chroma Spot Screenshot'
+      url: '/images/Chroma-Spot-Screenshot.JPG'
+    - alt: 'Spenditure Screenshot'
+      url: '/images/Spenditure-Screenshot.JPG'
+
+
+#-------------------------------
+# Footer Navigation Settings
+footer_menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Projects'
+      url: '/projects/'
+    - url: '/about/'
+      title: 'About'
+    - url: '/contact/'
+      title: 'Contact'
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: your@email.com # Add your form_id
+  description: # Add a description of your form
+
+# NOTE
+# Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+# disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
