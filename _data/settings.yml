@@ -92,12 +92,22 @@ gallery:
   gallery__images:
     - alt: 'Chroma Spot Screenshot'
       url: '/images/Chroma-Spot-Screenshot.JPG'
+    - alt: 'TuneMeIn Screenshot'
+      url: '/images/TuneMeIn-V1-Screenshot.png'
     - alt: 'Spenditure Screenshot'
       url: '/images/Spenditure-Screenshot.JPG'
-    - alt: 'Chroma Spot Screenshot'
-      url: '/images/Chroma-Spot-Screenshot.JPG'
-    - alt: 'Spenditure Screenshot'
-      url: '/images/Spenditure-Screenshot.JPG'
+    - alt: 'Tappy Lights Screenshot'
+      url: '/images/TappyLights-Screenshot.png'
+    - alt: 'Swifty Arrows Screenshot'
+      url: '/images/SwiftyArrows-Screenshot.png'
+    - alt: 'Rebound It Screenshot'
+      url: '/images/ReboundIt-Screenshot-2.png'
+    - alt: 'RGB Shooter Screenshot'
+      url: '/images/RGBShooter-Screenshot.png'
+    - alt: 'Shift The Line Screenshot'
+      url: '/images/ShiftTheLine-Screenshot.png'
+    - alt: 'Springy Cube Screenshot'
+      url: '/images/SpringyCube-Screenshot.png'
 
 
 #-------------------------------
