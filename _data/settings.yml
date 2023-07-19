@@ -54,7 +54,7 @@ mailchimp__button__text: Get updates
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Latest Apps
+  projects__title: Apps
   projects__description: The apps I've built were done so for primarily educational purposes and for fun, they all vary from the simplest of ideas to far more involved ideas.
 
 
