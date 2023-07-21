@@ -16,8 +16,8 @@ menu__settings:
       url: '/projects/'
     - title: 'About'
       url: '/about/'
-    - title: 'Contact'
-      url: 'contact'
+    # - title: 'Contact'
+    #   url: 'contact'
 
 
 #-------------------------------
@@ -120,8 +120,8 @@ footer_menu__settings:
       url: '/projects/'
     - url: '/about/'
       title: 'About'
-    - url: '/contact/'
-      title: 'Contact'
+    # - url: '/contact/'
+    #   title: 'Contact'
 
 
 #-------------------------------
