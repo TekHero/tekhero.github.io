@@ -5,7 +5,7 @@ subtitle: Game
 image: '/images/App-Icons/ReboundIt-AppIcon.png'
 ---
 
-Rebound It was one of my more simpler yet most addicting game that I've built. The idea behind this game was a twist of the classic game Pong, but the twist that I added for my version is that instead of bouncing the ball back to the other paddle, it was instead a single paddle bouncing more than one ball all around an invisible barrier that I placed along the top, leading and trailing borders of the screen. Essentially it would be closely aligned with the real life version of Indoor Pickleball but a 2D version if you will.
+Rebound It was one of my more simpler yet most addicting game that I've built. The idea behind this game was a twist of the classic game Pong, but the twist that I added for my version is that instead of bouncing the ball back to the other paddle, it was instead a single paddle bouncing more than one ball all around an invisible barrier that I placed along the top, leading and trailing borders of the screen. Essentially it would be closely aligned with the real life version of Indoor Racquetball but a 2D version if you will.
 
 All the assets in the game were also designed by myself.
 
